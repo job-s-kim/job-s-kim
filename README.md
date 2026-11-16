@@ -1,35 +1,26 @@
-# 🔥 나 혼자만 레벨업! | 1일 5미션 챌린지 🚀  
+# Jobs Kim
 
-## 🌟 하루 5가지 미션으로 성장하는 개발자  
+**Head of IT Development | On-Device AI · Mobile Engineering · Privacy & Security**
 
-📅 **1일 5미션 챌린지** (개발+지식+네트워킹+건강까지!)  
-🔹 **1 Daily Dev** - 📱 최신 트렌드 기반 안드로이드 개발 실습  
-🔹 **1 Blog** - 📝 짧고 강력한 개발 지식 공유 (30초~3분 정리)  
-🔹 **1 Study** - 🚀 안드로이드 신기술 스터디 (Compose, KMP, AI 등)  
-🔹 **1 Networking** - 🤝 개발 커뮤니티 & 오픈소스 활동  
-🔹 **1 Health & Mind** - 🏃‍♂️ 운동, 명상, 독서로 건강한 개발자 되기  
+I lead engineering teams and build mobile products that bring AI to the device. The question that guides my work is simple: **what can run locally, and what data, if any, needs to leave the device?**
 
----
+That decision connects AI performance, user trust, and product architecture. My role is to make those trade-offs explicit and help the team ship software it can maintain and operate with confidence.
 
-## 💡 About Me  
-👋 **Android Developer**를 꿈꾸며 매일 성장하는 **김기태**입니다.  
-💻 **"나 혼자만 레벨업"**처럼 매일 **5가지 미션을 수행**하며 성장 중!  
-🚀 문제 해결을 좋아하고, 최고의 사용자 경험을 만드는 것이 목표입니다.  
+## On-Device AI
 
----
+I focus on what it takes to run AI reliably in a mobile app: balancing model quality against latency, memory, and battery use; testing across device tiers; and designing fallbacks when a model is unavailable or its output is unreliable. I consider the full lifecycle, from packaging and deployment to updates and monitoring in production.
 
-## 🎯 하루 일과 & 성장 고찰 (Daily Reflection)  
-📌 **아침:** 오늘 할 목표 설정 ✅  
-📌 **낮:** 실습 & 블로그 정리 ✍  
-📌 **저녁:** 스터디 & 네트워킹 🤝  
-📌 **마무리:** 운동 & 자기계발 🏃‍♂️  
+## Privacy, Security & AI Governance
 
-🔥 **내일은 오늘보다 더 성장하는 개발자가 되자!**  
+I turn data policies into engineering decisions. Consent shapes what the app collects. Retention rules shape what it stores and for how long. In hybrid AI systems, I define when cloud processing is allowed, what can be transmitted, and what stays on the device. I also focus on credential storage, access control, and keeping model and policy changes traceable.
 
----
+## Engineering Stack
 
-## 📬 Contact Me  
-📧 **Email:** [kimjobs012389@gmail.com]  
-📙 **Blog:** [Tistory](https://jobs-kim.tistory.com/) / [Velog](https://velog.io/@jobskim/posts)  
-
-🚀 **1일 5미션으로 개발 루틴 실천!**  
+| Area | Technologies | What I Focus On |
+| --- | --- | --- |
+| **Android** | Kotlin, Jetpack Compose, Coroutines, Flow | Lifecycle-aware architecture, predictable UI state, background work, and performance on real devices |
+| **iOS** | Swift, SwiftUI, Swift Concurrency | Native UI architecture, asynchronous workflows, platform security, and device integration |
+| **Flutter** | Dart, Flutter, Platform Channels | Shared UI and business logic, with native integrations for local inference and device APIs |
+| **React Native** | TypeScript, React Native, Native Modules | Cross-platform product development, with native code where performance or device access calls for it |
+| **Backend** | Go | APIs and concurrent services for mobile products, with clear authentication and data access boundaries |
+| **Blockchain** | Smart contracts, wallet integration | Evaluating where verifiable records or shared ownership justify the complexity, while keeping sensitive data off-chain |
